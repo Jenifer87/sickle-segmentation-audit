@@ -1,0 +1,14 @@
+{
+  "points_per_side": 32,
+  "pred_iou_thresh": 0.86,
+  "stability_score_thresh": 0.92,
+  "min_mask_region_area": 4000,
+  "area_window": [
+    4000,
+    30000
+  ],
+  "fg_fraction": 0.5,
+  "containment_nms": 0.35,
+  "n_fields": 25,
+  "total_cells": 3762
+}
