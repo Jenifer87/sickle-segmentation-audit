@@ -12,7 +12,7 @@ We audit the erythrocyte segmentation released with a published weakly supervise
 The thin blood film images are the public collection of Manescu et al. (2020):
 https://doi.org/10.5522/04/12407567
 
-The ground-truth instance masks (too large for GitHub) are archived on Zenodo: **[Zenodo DOI]**
+The code, ground-truth instance masks and result tables are archived on Zenodo: **https://doi.org/10.5281/zenodo.22956846**
 
 ## Repository contents
 
